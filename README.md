@@ -38,4 +38,4 @@ This is the accompanying source code for the EDM 2022 poster 'Faster Confidence 
 
 The reference implementation for all confidence bound methods can be found in `ability_bounds.py`. The experimental source code in the notebook `synthetic_experiments.ipynb`.
 
-The source code in this repository depends on [numpy](https://numpy.org/) and [scipy](https://scipy.org/).
+The source code in this repository depends on [numpy](https://numpy.org/), [scipy](https://scipy.org/), and [tqdm](https://tqdm.github.io/).
